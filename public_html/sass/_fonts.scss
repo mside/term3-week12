@@ -1,0 +1,39 @@
+@font-face {
+	font-family: 'Whitney-BoldSC';
+	src: url('Whitney-BoldSC.eot');
+	src: url('Whitney-BoldSC.eot?#iefix') format('embedded-opentype'),
+		url('Whitney-BoldSC.woff') format('woff'),
+		url('Whitney-BoldSC.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Whitney-MediumSC';
+	src: url('Whitney-MediumSC.eot');
+	src: url('Whitney-MediumSC.eot?#iefix') format('embedded-opentype'),
+		url('Whitney-MediumSC.woff') format('woff'),
+		url('Whitney-MediumSC.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'GothamBold';
+	src: url('Gotham-Bold.eot');
+	src: url('Gotham-Bold.eot?#iefix') format('embedded-opentype'),
+		url('Gotham-Bold.woff') format('woff'),
+		url('Gotham-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'GothamLight';
+	src: url('Gotham-Light.eot');
+	src: url('Gotham-Light.eot?#iefix') format('embedded-opentype'),
+		url('Gotham-Light.woff') format('woff'),
+		url('Gotham-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
